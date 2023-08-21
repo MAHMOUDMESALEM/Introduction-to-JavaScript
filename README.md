@@ -61,7 +61,10 @@ Explore the individual modules and their folders to access lecture slides, code 
 Open the lecture slides in your web browser to follow along with the course content.
 
 **Contributing**
-If you wish to contribute to this course, you can submit pull requests with improvements to the course materials, code examples, or suggest additional modules. Contributions are highly appreciated!
+
+If you wish to contribute to this course, you can submit pull requests with improvements to the course materials, code examples, or suggest additional modules. 
+
+Contributions are highly appreciated!
 
 **References**
 
